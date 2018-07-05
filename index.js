@@ -2,7 +2,7 @@ function method()
 		{
 			var x = document.getElementById("accessToken").value;
 	        var xmlhttp = new XMLHttpRequest();
-	        xmlhttp.open("POST", "/Jasmine", true);
+	        xmlhttp.open("POST", "/Sample", true);
 	        xmlhttp.onreadystatechange = function() 
 	        {
 	            if (xmlhttp.readyState == 4) 
