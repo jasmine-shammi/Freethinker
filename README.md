@@ -1,2 +1,2 @@
 # Freethinker
-simple javascript and ajax with servlet
+simple example implementing javascript and ajax with servlet
